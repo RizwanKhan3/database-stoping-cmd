@@ -11,3 +11,7 @@
 # sqlserver
 * net stop MSSQL$SQLEXPRESS
 * net start MSSQL$SQLEXPRESS
+* net stop SQLTELEMETRY$SQLEXPRESS
+* net start SQLTELEMETRY$SQLEXPRESS
+* net start SQLWriter
+* net stop SQLWriter
