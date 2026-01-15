@@ -7,3 +7,7 @@
 # mongodb
 * net stop MongoDB
 * net start MongoDB
+
+# sqlserver
+* net stop MSSQL$SQLEXPRESS
+* net start MSSQL$SQLEXPRESS
