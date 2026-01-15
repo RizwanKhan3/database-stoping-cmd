@@ -1,4 +1,6 @@
-# database-stoping-cmd
+# Database Stoping cmd
+
+### Make Sure Adminestrator
 
 # pg
 * net stop postgresql-x64-18
